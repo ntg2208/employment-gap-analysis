@@ -104,6 +104,9 @@ The output data includes the following columns:
 *   **Public Enquiries:** Telephone: 0300 303 5678, Email: enquiries@nhsdigital.nhs.uk
 *   **Press Enquiries:** Telephone: 0300 303 3888
 
+## References
+* NHS Outcomes Framework - February 2020 publication: https://digital.nhs.uk/data-and-information/publications/statistical/nhs-outcomes-framework/february-2020
+
 ## License
 *   You may re-use this document/publication (including logos) free of charge in any format or medium, under the terms of the Open Government Licence v3.0.
 
