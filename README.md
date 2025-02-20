@@ -50,7 +50,7 @@ Analysis of employment rates and gaps between the general population and people 
 5. Professional and higher-skilled roles show better integration of workers with long-term conditions
 
 ## Data Source
-- Primary Source: Labour Force Survey (LFS) data, Office for National Statistics (ONS)
+- Primary Source: [ONS Labour Market Statistics](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/previousReleases)
 - Secondary Source: [NHS Outcomes Framework - February 2020 publication](https://digital.nhs.uk/data-and-information/publications/statistical/nhs-outcomes-framework/february-2020)
-- Time Period: 2006-2018
+- Time Period: 2006-2020
 - Key Metrics: Employment rates, population counts, and employment gaps across various demographic breakdowns
