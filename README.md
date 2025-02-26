@@ -49,6 +49,44 @@ Analysis of employment rates and gaps between the general population and people 
 4. Regional disparities suggest need for targeted interventions
 5. Professional and higher-skilled roles show better integration of workers with long-term conditions
 
+## Machine Learning Analysis
+
+### Feature Importance Analysis
+Question: What factors most strongly influence employment gaps between the general population and those with long-term conditions?
+
+Using Random Forest classification (94.6% accuracy), the analysis revealed:
+- General population employment rate is by far the most influential feature (0.25 importance)
+- Year and Quarter are the second most important (0.15 and 0.07 respectively)
+- Demographic breakdowns (NS-SEC category, local area) have moderate importance (0.02 importance)
+
+This suggests that current employment status is more predictive of employment gaps than demographic factors.
+
+![Feature Importance](figures/feature_importance.png)
+
+### Demographic Clustering Analysis
+Question: Are there distinct patterns in employment outcomes across different demographic segments?
+
+K-means clustering revealed three distinct groups:
+
+1. Small Cluster (n=8):
+   - Lowest employment rates (~23% for long-term conditions, ~27% population)
+   - Primarily NS-SEC categories and Age groups
+   - Smallest employment gap (4.2%)
+
+2. Medium Cluster (n=59):
+   - Highest employment rates (~75% for long-term conditions, ~83% population)
+   - Mix of NS-SEC and local area categories
+   - Moderate employment gap (8.0%)
+
+3. Large Cluster (n=175):
+   - Moderate employment rates (~58% for long-term conditions, ~72% population)
+   - Dominated by local area categories
+   - Largest employment gap (13.5%)
+
+![Clustering Analysis](figures/clusters_scatter.png)
+
+The clustering analysis reveals that employment outcomes tend to cluster by demographic category type rather than specific demographic characteristics, suggesting systemic patterns in how employment gaps manifest across different population segments.
+
 ## Data Source
 - Primary Source: [ONS Labour Market Statistics](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/previousReleases)
 - Secondary Source: [NHS Outcomes Framework - February 2020 publication](https://digital.nhs.uk/data-and-information/publications/statistical/nhs-outcomes-framework/february-2020)
