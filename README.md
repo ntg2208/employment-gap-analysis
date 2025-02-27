@@ -11,6 +11,10 @@ Analysis of employment rates and gaps between the general population and people 
 - Persistent employment gap exists between general population and those with long-term conditions
 - Slight narrowing of gap in recent years indicates improving workplace inclusivity
 
+![Population and Long-term Condition Numbers](figures/Figure_1_Q4_Population_and_Long-term_Condition_Numbers_-_England.png)
+
+![Employment Rates and Gap Analysis](figures/Figure_2_Q4_Employment_Rates_and_Gap_Analysis_-_England.png)
+
 ### Key Demographic Findings
 
 #### Gender
@@ -18,10 +22,22 @@ Analysis of employment rates and gaps between the general population and people 
 - Men show consistently higher employment rates across both groups
 - Recent years show slight improvement in reducing gaps for both genders
 
+![Gender Employment Gap](figures/Figure_3_Gender_-_Q4_Employment_Gap.png)
+
+![Gender Long-term Conditions Employment Rate](figures/Figure_4_Gender_-_Q4_Long-term_Conditions_Employment_Rate.png)
+
+![Gender Population Employment Rate](figures/Figure_5_Gender_-_Q4_Population_Employment_Rate.png)
+
 #### Ethnicity
 - Chinese workers show unique negative gap (-2.53%), suggesting higher employment rates for those with long-term conditions
 - White and Other ethnic groups show similar gaps (~13.7%)
 - Black/African/Caribbean groups show lower gaps (~9.8%)
+
+![Ethnicity Employment Gap](figures/Figure_6_Ethnicity_-_Q4_Employment_Gap.png)
+
+![Ethnicity Long-term Conditions Employment Rate](figures/Figure_7_Ethnicity_-_Q4_Long-term_Conditions_Employment_Rate.png)
+
+![Ethnicity Population Employment Rate](figures/Figure_8_Ethnicity_-_Q4_Population_Employment_Rate.png)
 
 #### Regional Variations
 - Merseyside shows highest average gap (16.77%)
@@ -29,10 +45,22 @@ Analysis of employment rates and gaps between the general population and people 
 - London's gap (13.97%) above national average despite economic strength
 - Clear north-south divide in employment outcomes
 
+![Regional Employment Gap](figures/Figure_9_Region_-_Q4_Employment_Gap.png)
+
+![Regional Long-term Conditions Employment Rate](figures/Figure_10_Region_-_Q4_Long-term_Conditions_Employment_Rate.png)
+
+![Regional Population Employment Rate](figures/Figure_11_Region_-_Q4_Population_Employment_Rate.png)
+
 #### Religion
 - Jewish communities show lowest average gap (7.31%)
 - Christian and Muslim communities show similar gaps (~13%)
 - High variability in employment gaps for Buddhist and Sikh communities
+
+![Religion Employment Gap](figures/Figure_12_Religion_-_Q4_Employment_Gap.png)
+
+![Religion Long-term Conditions Employment Rate](figures/Figure_13_Religion_-_Q4_Long-term_Conditions_Employment_Rate.png)
+
+![Religion Population Employment Rate](figures/Figure_14_Religion_-_Q4_Population_Employment_Rate.png)
 
 ### Technical Sector Analysis
 - Clear correlation between role complexity and employment accessibility
@@ -41,6 +69,12 @@ Analysis of employment rates and gaps between the general population and people 
 - Employment rates for those with long-term conditions vary significantly:
   * Higher professional: 87.36% employment rate
   * Semi-routine technical: 71.08% employment rate
+
+![Technical Roles Population Employment Rate](figures/Figure_18_Technical_&_Engineering_Roles_-_Population_Employment_Rate.png)
+
+![Technical Roles Long-term Conditions Employment Rate](figures/Figure_19_Technical_&_Engineering_Roles_-_Q4_Employment_Rates_(Long-term_Conditions).png)
+
+![Technical Roles Employment Gap](figures/Figure_20_Technical_&_Engineering_Roles_-_Employment_Gap.png)
 
 ### Key Implications
 1. Despite overall employment growth, significant barriers remain for people with long-term conditions
